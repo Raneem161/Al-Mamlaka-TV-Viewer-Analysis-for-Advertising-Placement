@@ -8,6 +8,7 @@ The data was provided by Al-Mamlaka, a public broadcaster based in Amman, Jordan
 - Daily Datasets: Datasets for each weekday (Sunday, Monday, Tuesday, Wednesday, and Thursday) were provided.
 - Online Users Dataset: Access was given to a separate dataset detailing the number of people online at any given time between 12 am and 12 pm on May 22, 2022, and May 26, 2022. A combined average of users across both programs was determined by splicing these two datasets together.
 - Program Data: Data of programs was delivered as a grid or schedule with time and day, but without any output data.
+
 The primary dataset used for the analysis have been consolidated into a CSV file. This file contains 54 rows and 8 columns. The columns are labeled: 'ID', 'TIME', 'SUNDAY_USERS', 'MONDAY_USERS', 'TUESDAY_USERS', 'WEDNSDAY_USERS', 'THURSDAY_USERS', and 'PROGRAM'.
 
 ## Documentation
